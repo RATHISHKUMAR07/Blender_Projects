@@ -1,2 +1,3 @@
 # Blender_Projects
-In this repository - I uploaded basic blender projects. 
+<b>Tools</b> - Blender<br>
+<b>In this repository<b> - I uploaded blender projects of Chessboard and house model. 
